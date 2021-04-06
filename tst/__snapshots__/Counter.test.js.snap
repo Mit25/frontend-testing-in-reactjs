@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter component snapshot testing for Counter component 1`] = `
+<div>
+  <div>
+    <span
+      id="spn-counter-text"
+    >
+      The counter: 
+    </span>
+    <span
+      id="spn-count"
+    >
+      0
+    </span>
+  </div>
+  <button
+    id="btn-increment"
+    onClick={[Function]}
+  >
+    Increment
+  </button>
+  <button
+    id="btn-decrement"
+    onClick={[Function]}
+  >
+    Decrement
+  </button>
+  <button
+    id="btn-reset"
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+</div>
+`;
