@@ -12,10 +12,10 @@
     "node": "12.14.0"
   },
   "dependencies": {
+    "jquery": "^3.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "4.0.3",
-    "jquery": "^2.1.4"
+    "react-scripts": "4.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
